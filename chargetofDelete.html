@@ -1,0 +1,194 @@
+<html>
+<link rel="stylesheet" type="text/css" href="chargetofEnroll.css">
+<meta charset="utf-8">
+<head>
+    <script>
+
+        function com()
+        {
+            Read();
+            change();
+        }
+        function change()
+        {
+            var x = document.getElementById("ProductID");
+            var y = document.getElementById("OtypeID");
+            y.options.length = 0; // 清除second下拉框的所有内容
+            if(x.selectedIndex == 0)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4001"));
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4003", false, true));
+                y.options.add(new Option("主营业务收入-公众客户-本地拨号上网通信费", "4004"));
+                y.options.add(new Option("主营业务收入-公众客户-本地区内通话费", "4002"));
+                y.options.add(new Option("主营业务收入-公众客户-国内长途通信费", "4005"));
+                y.options.add(new Option("主营业务收入-公众客户-国际长途通信费", "4006"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));
+                y.options.add(new Option("主营业务收入-公众客户-港澳台长途通信费", "4007"));
+                y.options.add(new Option("主营业务收入-公众客户-装移机工料费收入", "4011"));
+                y.options.add(new Option("", "",false, true));
+            }
+
+            else if(x.selectedIndex == 1)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4001"));
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4003"));
+                y.options.add(new Option("主营业务收入-公众客户-本地拨号上网通信费", "4004"));
+                y.options.add(new Option("主营业务收入-公众客户-本地区内通话费", "4002"));
+                y.options.add(new Option("主营业务收入-公众客户-国内长途通信费", "4005"));
+                y.options.add(new Option("主营业务收入-公众客户-国际长途通信费", "4006"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));
+                y.options.add(new Option("主营业务收入-公众客户-港澳台长途通信费", "4007"));
+                y.options.add(new Option("主营业务收入-公众客户-装移机工料费收入", "4011"));
+                y.options.add(new Option("", "",false, true));
+            }
+            else if(x.selectedIndex == 2)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4001"));
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4003"));
+                y.options.add(new Option("主营业务收入-公众客户-本地拨号上网通信费", "4004"));
+                y.options.add(new Option("主营业务收入-公众客户-本地区内通话费", "4002"));
+                y.options.add(new Option("主营业务收入-公众客户-国内长途通信费", "4005"));
+                y.options.add(new Option("主营业务收入-公众客户-国际长途通信费", "4006"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));
+                y.options.add(new Option("主营业务收入-公众客户-港澳台长途通信费", "4007"));
+                y.options.add(new Option("主营业务收入-公众客户-装移机工料费收入", "4011"));
+                y.options.add(new Option("", "",false, true));
+            }
+            else if(x.selectedIndex == 3)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-IP国内长途通信费", "4008"));
+                y.options.add(new Option("主营业务收入-公众客户-IP国际长途通信费", "4009"));
+                y.options.add(new Option("主营业务收入-公众客户-IP港澳台长途通信费", "4010"));
+                y.options.add(new Option("", "",false, true));
+
+            }
+            else if(x.selectedIndex == 4)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-IP国内长途通信费", "4008"));
+                y.options.add(new Option("主营业务收入-公众客户-IP国际长途通信费", "4009"));
+                y.options.add(new Option("主营业务收入-公众客户-IP港澳台长途通信费", "4010"));
+                y.options.add(new Option("", "",false, true));
+            }
+            else if(x.selectedIndex == 5)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));
+                y.options.add(new Option("主营业务收入-公众客户-网络使用费", "4013"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4014"));
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4021"));
+                y.options.add(new Option("", "",false, true));
+            }
+            else if(x.selectedIndex == 6)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));
+                y.options.add(new Option("主营业务收入-公众客户-网络使用费", "4013"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4014"));
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4021"));
+                y.options.add(new Option("", "",false, true));
+            }
+            else if(x.selectedIndex == 7)
+            {
+                y.options.add(new Option("主营业务收入-公众客户-月租费收入", "4001"));
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4012"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-开户费收入", "4014"));
+                y.options.add(new Option("主营业务收入-公众客户-其他类收入", "4021"));
+                y.options.add(new Option("", "",false, true));
+            }
+
+
+        }
+
+        function Read()
+        {
+            var Otime_val = document.getElementById("Otime").value;
+            var AareaID_val = document.getElementById("city").value;
+            var ProductID_val = document.getElementById("ProductID").value;
+            var OtypeID_val = document.getElementById("OtypeID").value;
+            var xmlhttp;
+
+            if (window.XMLHttpRequest)
+            {
+                // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+                xmlhttp=new XMLHttpRequest();
+            }
+            else
+            {
+                // IE6, IE5 浏览器执行代码
+                xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xmlhttp.onreadystatechange=function()
+            {
+                if (xmlhttp.readyState==4 && xmlhttp.status==200)
+                {
+                    document.getElementById("txt1").innerHTML = xmlhttp.responseText;
+                }
+            }
+            xmlhttp.open("GET","outincome_delete.php?Otime="+Otime_val+'&AareaID='+AareaID_val+'&ProductID='+ProductID_val+'&OtypeID='+OtypeID_val,true);
+            xmlhttp.send();
+//	xmlhttp.open("POST","outincome_input.php",true);
+//	xmlhttp.send('Otime=Otime_val','AareaID=AareaID_val','ProductID=ProductID_val','OtypeID=OtypeID_val','Omoney=Omoney_val');
+        }
+    </script>
+</head>
+<body>
+<div class="smallGround">
+    <p class="first">出账删除</p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:100px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期: <input id="Otime" type="date" name="Otime" class="smallInput" onchange="Read()"></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:450px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;城市:<select id="city" name="city" class="smallInput" onchange="Read()">
+    <option value="000">江西本部</option>
+    <option value="740">江西景德镇</option>
+    <option value="750">江西南昌</option>
+    <option value="751">江西吉安</option>
+    <option value="752">江西赣州</option>
+    <option value="753">江西新余</option>
+    <option value="754">江西鹰潭</option>
+    <option value="755">江西九江</option>
+    <option value="756">江西宜春</option>
+    <option value="757">江西上饶</option>
+    <option value="758">江西萍乡</option>
+    <option value="759">江西抚州</option>
+    <option value="" selected="selected"></option>
+</select></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:800px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;产品:
+    <select id="ProductID" class="smallInput" onchange="com()">
+        <option value="120502">固话-增值业务-800-国内</option>
+        <option value="110101">固话-基础业务-普通电话</option>
+        <option value="110503">固话-基础业务-公用电话-公话超市电话</option>
+        <option value="320113">卡类-IP卡-省内IP电话卡-200卡</option>
+        <option value="320114">卡类-IP卡-省内IP电话卡-300卡</option>
+        <option value="420301">数据业务-互联网接入服务-互联网普通专线接入</option>
+        <option value="420201">数据业务-互联网接入服务-宽带接入-ADSL虚拟拨号</option>
+
+        <option value="430101">数据业务-平台业务-IDC-主机托管</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:100px; top:135px">出账类型:<select id="OtypeID" class="smallInput" onchange="Read()">
+    <option value="4001">主营业务收入-公众客户-月租费收入</option>
+    <option value="4003">主营业务收入-公众客户-月租费收入主营业务收入-公众客户-月租费收入</option>
+    <option value="4004">主营业务收入-公众客户-本地拨号上网通信费</option>
+    <option value="4002">主营业务收入-公众客户-本地区内通话费</option>
+    <option value="4005">主营业务收入-公众客户-国内长途通信费</option>
+    <option value="4006">主营业务收入-公众客户-国际长途通信费</option>
+    <option value="4012">主营业务收入-公众客户-开户费收入</option>
+    <option value="4007">主营业务收入-公众客户-港澳台长途通信费</option>
+    <option value="4011">主营业务收入-公众客户-装移机工料费收入</option>
+    <option value="" selected="selected"></option>
+</select></p>
+</div>
+<p class="smallGround1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table width="1300" border="1" cellspacing="0" bordercolor="blue">
+    <tr>
+        <th width="100" class="table1">流水号</th>
+        <th width="150" class="table1">日期</th>
+        <th width="150" class="table1">城市</th>
+        <th width="350" class="table1">产品</th>
+        <th width="350" class="table1">产品类型</th>
+        <th width="100" class="table1">金额</th>
+        <th width="100" class="table1">操作</th>
+    </tr>
+</table>
+<table id="txt1" width="1300" border="1" cellspacing="0" bordercolor="blue">
+</table>
+</p>
+
+</body>
+</html>

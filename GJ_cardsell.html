@@ -1,0 +1,92 @@
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="chargetofEnroll.css">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href=font-awesome-4.7.0/css/font-awesome.min.css rel="stylesheet" type="text/css">
+<head>
+    <script>
+        function Read()
+        {
+            var Ctime_val = document.getElementById("Ctime").value;
+            var AareaID_val = document.getElementById("city").value;
+            var ProductID_val = document.getElementById("ProductID").value;
+            var Cnumber_val = document.getElementById("Cnumber").value;
+
+            var xmlhttp;
+            if (window.XMLHttpRequest)
+            {
+                // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+                xmlhttp=new XMLHttpRequest();
+            }
+            else
+            {
+                // IE6, IE5 浏览器执行代码
+                xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xmlhttp.onreadystatechange=function()
+            {
+                if (xmlhttp.readyState==4 && xmlhttp.status==200)
+                {
+                    document.getElementById("txt1").innerHTML = xmlhttp.responseText;
+                }
+            }
+            xmlhttp.open("GET","GJ_cardsellDeal.php?Ctime="+Ctime_val+'&AareaID='+AareaID_val+'&ProductID='+ProductID_val+ '&Cnumber=' + Cnumber_val,true);
+            xmlhttp.send();
+        }
+
+    </script>
+</head>
+<body>
+<div class="smallGround">
+    <p class="first">卡销售归集</p>
+<p style="font-size:20px; font-weight:bold; position:absolute; left:100px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    日期:<input id="Ctime" type="date" name="Ctime" class="smallInput" onchange="Read()"></p>
+<p style="font-size:20px; font-weight:bold; position:absolute; left:430px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    城市:<select id="city" name="city" class="smallInput" onchange="Read()">
+        <option value="000">江西本部</option>
+        <option value="740">江西景德镇</option>
+        <option value="750">江西南昌</option>
+        <option value="751">江西吉安</option>
+        <option value="752">江西赣州</option>
+        <option value="753">江西新余</option>
+        <option value="754">江西鹰潭</option>
+        <option value="755">江西九江</option>
+        <option value="756">江西宜春</option>
+        <option value="757">江西上饶</option>
+        <option value="758">江西萍乡</option>
+        <option value="759">江西抚州</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:800px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    产品:<select id="ProductID"  class="smallInput" onchange="Read()">
+
+        <option value="320113">卡类-IP卡-省内IP电话卡-200卡</option>
+        <option value="320114">卡类-IP卡-省内IP电话卡-300卡</option>
+        <option value="" selected="selected"></option>
+
+    </select></p>
+<p style="font-size:20px; font-weight:bold; position:absolute; left:770px; top:135px" >
+    卡销售数量:<input type="text" id="Cnumber" name="Cnumber" class="smallInput" onchange="Read()"></p>
+    <p style="font-size:20px; font-weight:bold; position:absolute; left:1100px; top:220px">
+        <a href="GJ_cardsellEnd.php">
+            <button id="submit" name="sub" value="打印" type="button"  class=" btn btn-primary" onclick="ForCheck()" style="position: relative; top: -10px;"><i class="fa fa-paper-plane">打印</i></button>
+        </a>
+    </p>
+</div>
+
+<p class="GJ_smallGround">
+<table width="" border="1" cellspacing="0" bordercolor="blue">
+    <tr>
+        <th width="250" class="color-text1">流水号</th>
+        <th width="250" class="color-text1">日期</th>
+        <th width="250" class="color-text1">城市</th>
+        <th width="400" class="color-text1">产品</th>
+        <th width="200" class="color-text1">卡销售数量</th>
+        <th width="150" class="color-text1">金额</th>
+    </tr>
+</table>
+<table id="txt1" width="" border="1" cellspacing="0" bordercolor="blue">
+</table>
+
+</body>
+</html>

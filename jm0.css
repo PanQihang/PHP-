@@ -1,0 +1,78 @@
+.text
+{   font-size:30px;
+    background:url("img/12.jpg");
+	height: 50px;
+
+}
+.text2
+{   height:19px;
+	border-color:white;
+	background: linear-gradient(white, #87CEFA);
+}
+.c
+{
+	background: linear-gradient(white,blue);
+	height: 44px;
+}
+.b
+{
+	font-size:20px;
+	width:200px;
+	height:35px;
+	text-decoration:none;
+	position:relative;
+	top:0px;
+}
+.Second
+{
+
+	background:url(img/16.jpg);
+
+}
+
+
+.text1
+{
+	height: 960px;
+	width:300px;
+	border-style:solid;
+	border-color:white;
+	background: linear-gradient(white, #87CEFA);
+}
+.div
+{
+	border: solid;
+	height:960px;
+	width:300px;
+	display:none;
+}
+
+.div1
+{
+	position:absolute;
+	top:70px;
+}
+.txt
+{
+	width:206px;
+	height:730px;
+	text-decoration:none;
+	font-size: 18px;
+}
+.img6
+{
+    width:205px;
+    position: relative;
+
+}
+.word
+{
+    font-family: 楷体 ;
+	font-size: 40px;
+}
+
+.Second_position
+{
+	position: relative;
+	left:200px;
+}

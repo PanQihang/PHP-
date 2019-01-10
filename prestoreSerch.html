@@ -1,0 +1,99 @@
+<html>
+<link rel="stylesheet" type="text/css" href="chargetofEnroll.css">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<meta charset="utf-8">
+<head>
+    <script>
+        function Read()
+        {
+            var Ptime_val = document.getElementById("Ptime").value;
+            var AareaID_val = document.getElementById("city").value;
+            var ProductID_val = document.getElementById("ProductID").value;
+            var reporttype_val = document.getElementById("PtypeID").value;
+
+
+            var xmlhttp;
+
+            if (window.XMLHttpRequest)
+            {
+                // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+                xmlhttp = new XMLHttpRequest();
+            }
+            else
+            {
+                // IE6, IE5 浏览器执行代码
+                xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+
+            xmlhttp.onreadystatechange = function ()
+            {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+                {
+                    document.getElementById("txt1").innerHTML = xmlhttp.responseText;
+                }
+            }
+            xmlhttp.open("GET", "prestore_find.php?Ptime=" +  Ptime_val + '&AareaID=' + AareaID_val + '&ProductID=' + ProductID_val + '&PtypeID=' + reporttype_val,true);
+            xmlhttp.send();
+        }
+    </script>
+</head>
+<body>
+<div class="smallGround">
+    <p class="first">预存转查询</p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:100px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期: <input id="Ptime" type="date" name="Ptime" class="smallInput" ></p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:450px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;城市:<select id="city" name="city" class="smallInput" >
+        <option value="000">江西本部</option>
+        <option value="740">江西景德镇</option>
+        <option value="750">江西南昌</option>
+        <option value="751">江西吉安</option>
+        <option value="752">江西赣州</option>
+        <option value="753">江西新余</option>
+        <option value="754">江西鹰潭</option>
+        <option value="755">江西九江</option>
+        <option value="756">江西宜春</option>
+        <option value="757">江西上饶</option>
+        <option value="758">江西萍乡</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:800px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;产品:<select id="ProductID"  class="smallInput">
+        <option value="120502">固话-增值业务-800-国内</option>
+        <option value="110101">固话-基础业务-普通电话</option>
+        <option value="110503">固话-基础业务-公用电话-公话超市电话</option>
+        <option value="420301">数据业务-互联网接入服务-互联网普通专线接入</option>
+        <option value="420201">数据业务-互联网接入服务-宽带接入-ADSL虚拟拨号</option>
+        <option value="" selected="selected"></option>
+
+    </select>
+    </p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:78px; top:135px">结算运营商:<select id="PtypeID" class="smallInput" >
+        <option value="P100">预收账款-用户预存款</option>
+        <option value="P110">预收账款-缴费卡款</option>
+        <option value="P120">联预收账款-预付费卡款-面值</option>
+        <option value="P130">预收账款-预付费卡款-销售折扣</option>
+        <option value="P140">预收账款-预收出租商品租金</option>
+        <option value="P150">预收账款-预收代办工程款</option>
+        <option value="P160">预收账款-其他-其他</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+    <p style="font-size:20px; font-weight:bold; position:absolute; left:1100px; top:220px">
+        <button id="submit" name="sub" value="提交" type="button"  class=" btn btn-primary" onclick="Read()" style="position: relative; top: -10px;"><i class="fa fa-paper-plane">提交</i></button>
+    </p>
+</div>
+<p class="smallGround1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table width="" border="1" cellspacing="0" bordercolor="blue">
+    <tr>
+        <th style=" text-align:center" width="150"  class="color-text1">流水号</th>
+        <th style=" text-align:center" width="150"  class="color-text1">日期</th>
+        <th style=" text-align:center" width="200"  class="color-text1">城市</th>
+        <th style=" text-align:center" width="350" class="color-text1">产品</th>
+        <th style=" text-align:center" width="350"  class="color-text1">销账类型名称</th>
+        <th style=" text-align:center" width="100"  class="color-text1">金额</th>
+        <th style=" text-align:center" width="200"  class="color-text1">操作</th>
+    </tr>
+</table>
+<table id="txt1" width="" border="1" cellspacing="0" bordercolor="blue">
+</table>
+</p>
+</body>
+</html>

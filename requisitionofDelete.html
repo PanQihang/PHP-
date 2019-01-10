@@ -1,0 +1,147 @@
+<html>
+<link rel="stylesheet" type="text/css" href="chargetofEnroll.css">
+<meta charset="utf-8">
+<head>
+    <script>
+        function com() {
+            Read();
+            change();
+        }
+        function change()
+        {
+            var x = document.getElementById("ProductID");
+            var y = document.getElementById("reporttype");
+            y.options.length = 0; // 清除second下拉框的所有内容
+            if(x.selectedIndex == 0)
+            {
+                y.options.add(new Option("主业-公众-装移机工料费-普通电话", "I0001"));
+                y.options.add(new Option("主业-公众-开户费-普通电话", "I0027"));
+                y.options.add(new Option("主业-公众-一次性费用-普通电话", "I0053"));
+                y.options.add(new Option("预收账款-用户预存款-普通电话", "I0239"));
+                y.options.add(new Option("","",false, true));
+
+            }
+
+            if(x.selectedIndex == 1)
+            {
+                y.options.add(new Option("主业-公众-一次性费用-公用电话-公话超市电话", "I0061"));
+                y.options.add(new Option("预收账款-用户预存款-公用电话-公话超市电话", "I0247"));
+                y.options.add(new Option("主业-公众-开户费-公用电话-公话超市电话", "I0035"));
+                y.options.add(new Option("主业-公众-装移机工料费-公用电话-公话超市电话", "I0009"));
+                y.options.add(new Option("","",false, true));
+
+            }
+            if(x.selectedIndex == 2)
+            {
+                y.options.add(new Option("主业-公众-装移机工料费-IDC-主机托管", "I0024"));
+                y.options.add(new Option("主业-公众-开户费-IDC-主机托管", "I0050"));
+                y.options.add(new Option("主业-公众-一次性费用-IDC-主机托管", "I0232"));
+                y.options.add(new Option("","",false, true));
+
+            }
+            if(x.selectedIndex == 3)
+            {
+                y.options.add(new Option("主业-公众-装移机工料费-宽带-ADSL虚拟拨号", "I0014"));
+                y.options.add(new Option("主业-公众-一次性费用-宽带-ADSL虚拟拨号", "I0067"));
+                y.options.add(new Option("主业-公众-开户费-宽带-ADSL虚拟拨号", "I0040"));
+                y.options.add(new Option("主业-公众-装移机工料费-宽带-ADSL虚拟拨号", "I0014"));
+                y.options.add(new Option("","",false, true));
+
+
+            }
+            if(x.selectedIndex == 4)
+            {
+                y.options.add(new Option("预收账款-预付费卡款-面值-200卡", "I0262"));
+                y.options.add(new Option("预收账款-预付费卡款-销售折扣-200卡", "I0267"));
+                y.options.add(new Option("","",false, true));
+            }
+            if(x.selectedIndex == 5)
+            {
+                y.options.add(new Option("预收账款-预付费卡款-面值-300卡", "I0264"));
+                y.options.add(new Option("预收账款-预付费卡款-销售折扣-300卡", "I0269"));  // 默认选中省会城市
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4014"));
+                y.options.add(new Option("主营业务收入-公众客户-一次性费用", "4021"));
+                y.options.add(new Option("","",false, true));
+            }
+        }
+
+        function Read() {
+            var Rtime_val = document.getElementById("Rtime").value;
+            var AareaID_val = document.getElementById("city").value;
+            var ProductID_val = document.getElementById("ProductID").value;
+            var RtypeID_val = document.getElementById("RtypeID").value;
+            var xmlhttp;
+
+            if (window.XMLHttpRequest) {
+                // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+                xmlhttp = new XMLHttpRequest();
+            }
+            else {
+                // IE6, IE5 浏览器执行代码
+                xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            xmlhttp.onreadystatechange = function () {
+                if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                    document.getElementById("txt1").innerHTML = xmlhttp.responseText;
+                }
+            }
+            xmlhttp.open("GET", "reportincome_delete.php?Rtime=" + Rtime_val + '&AareaID=' + AareaID_val + '&ProductID=' + ProductID_val + '&RtypeID=' + RtypeID_val , true);
+            xmlhttp.send();
+        }
+    </script>
+
+</head>
+<body >
+<div class="smallGround">
+    <p class="first">通知单删除</p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:500px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;城市:<select id="city" name="city" class="smallInput" onchange="Read()">
+        <option value="000">江西本部</option>
+        <option value="740">江西景德镇</option>
+        <option value="750">江西南昌</option>
+        <option value="751">江西吉安</option>
+        <option value="752">江西赣州</option>
+        <option value="753">江西新余</option>
+        <option value="754">江西鹰潭</option>
+        <option value="755">江西九江</option>
+        <option value="756">江西宜春</option>
+        <option value="757">江西上饶</option>
+        <option value="758">江西萍乡</option>
+        <option value="759">江西抚州</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:800px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;产品:<select id="ProductID" name = "ProductID"  class="smallInput" onChange="com()" >
+        <option value="110101">固话-基础业务-普通电话</option>
+        <option value="110503">固话-基础业务-公用电话-公话超市电话</option>
+        <option value="430101">数据业务-平台业务-IDC-主机托管</option>
+        <option value="320113">卡类-IP卡-省内IP电话卡-200卡</option>
+        <option value="320114">卡类-IP卡-省内IP电话卡-300卡</option>
+        <option value="430101">数据业务-平台业务-IDC-主机托管</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:100px; top:135px">出账类型:<select id="RtypeID" name ="RtypeID" class="smallInput" onchange="Read()">
+        <option value="I0001">主业-公众-装移机工料费-普通电话</option>
+        <option value="I0027">主业-公众-开户费-普通电话</option>
+        <option value="I0053">主业-公众-一次性费用-普通电话</option>
+        <option value="I0239">预收账款-用户预存款-普通电话</option>
+        <option value="" selected="selected"></option>
+    </select></p>
+    <p style="font-size:25px; font-weight:bold; position:absolute; left:-5px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;营业收款日期: <input id="Rtime" type="date" name="Rtime" class="smallInput" onchange="Read()"></p>
+</div>
+<p class="smallGround1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<table width="1300" border="1" cellspacing="0" bordercolor="blue">
+    <tr>
+        <th width="100" class="table1">流水号</th>
+        <th width="150" class="table1">营业收款日期</th>
+        <th width="150" class="table1">城市</th>
+        <th width="350" class="table1">产品</th>
+        <th width="350" class="table1">出账类型</th>
+        <th width="100" class="table1">收入金额</th>
+        <th width="100" class="table1">操作</th>
+    </tr>
+</table>
+<table id="txt1" width="1300" border="1" cellspacing="0" bordercolor="blue">
+</table>
+</p>
+
+</body>
+</html>

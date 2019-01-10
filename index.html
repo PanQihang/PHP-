@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html>
+<head>
+	<title>index登录</title>
+
+</head>
+<link rel="stylesheet" type="text/css" href="jm.css">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../RJGC2_0/RJGC/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<body>
+<div class="title">电信报表系统</div>
+<div class= "text">
+    <div class="back">  欢迎登录电信报表系统</div>
+        <br/>
+   <div>
+<form  method=post  action="indexdeal.php" >
+    <span style="position:absolute; left:78px" > 账号:<input type="text" name="username" class="smallInput" placeholder="请输入账号" required></span><br><br>
+
+    <span style="position:absolute; left:78px">密码:<input type="password" name="psword" class="smallInput" placeholder="请输入密码" required></span><br><br>
+
+    <span style="position:absolute; left:18px">
+        登录类型:<select id = 'AdminType' name = 'AdminType' class = 'smallInput' >
+            <option value="YWY">业务员</option>
+            <option value="JHY">稽核员</option>
+            <option value="CWY">财务员</option>
+            <option value="GLY">管理员</option>
+            </select>
+    </span><br><br>
+    <span  style="position:absolute; left:20px"> 验证码: <input class="smallInput" style="width:200px" type="text" name="image" placeholder="请输入验证码"  required>
+    <img src="getVerify.php" id="getImage"><a onclick="document.getElementById('getImage')
+    .src='getVerify.php?r='+Math.random()" href='javascript:void(0)'><span style="font-size: 20px">看不清,换一张</span></a></span>
+    <br><br>
+    <span style="position: relative; left:40px;"><input type="submit" name="submit" value="登录" style="width: 150px;" class="btn btn-block btn-info"></span>
+</form></div></div>
+</body>
+</html>

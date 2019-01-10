@@ -1,0 +1,155 @@
+<html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="chargetofEnroll.css">
+<link href="bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href=font-awesome-4.7.0/css/font-awesome.min.css rel="stylesheet" type="text/css">
+<head>
+   <script>
+       function ForCheck1()
+       {
+           var Wtime_val = document.getElementById("Wtime").value;
+           var AareaID_val = document.getElementById("city").value;
+           var ProductID_val = document.getElementById("ProductID").value;
+           var Wmoney_val = document.getElementById("Wmoney").value;
+           var Wweboperator_val =document.getElementById("Wweboperator").value;
+           var Wwebtype_val =document.getElementById("Wwebtype").value;
+           var string = Wmoney_val.toString();
+           if(!Wtime_val.toString())
+           {
+               alert("请选择日期!!");
+           }
+           else if(!AareaID_val.toString())
+           {
+               alert("请选择城市!!");
+           }
+           else if(!ProductID_val.toString())
+           {
+               alert("请选择产品!!");
+           }
+           else  if(!Wweboperator_val)
+           {
+               alert("请选择结算运营商!!");
+           }
+           else if(!Wwebtype_val)
+           {
+               alert("请选择结算类型!!");
+           }
+           else if(!Wmoney_val.toString())
+           {
+               alert("请输入金额!!");
+           }
+           else if(!isDigit(string))
+           {
+               alert("请输入正确的金额!!");
+           }
+           else
+           {
+               Read();
+
+           }
+       }
+
+       function isDigit(s)
+       {
+           var patrn=/^[0-9]{1,20}$/;
+           if (!patrn.exec(s))
+               return false
+           return true
+       }
+       function Read() {
+           var Wtime_val = document.getElementById("Wtime").value;
+           var AareaID_val = document.getElementById("city").value;
+           var ProductID_val = document.getElementById("ProductID").value;
+           var Wmoney_val = document.getElementById("Wmoney").value;
+           var Wweboperator_val =document.getElementById("Wweboperator").value;
+           var Wwebtype_val =document.getElementById("Wwebtype").value;
+
+           var xmlhttp;
+
+           if (window.XMLHttpRequest)
+           {
+               // IE7+, Firefox, Chrome, Opera, Safari 浏览器执行代码
+               xmlhttp = new XMLHttpRequest();
+           }
+           else
+           {
+               // IE6, IE5 浏览器执行代码
+               xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+           }
+
+           xmlhttp.onreadystatechange = function ()
+           {
+               if (xmlhttp.readyState == 4 && xmlhttp.status == 200)
+               {
+                   document.getElementById("txt1").innerHTML += xmlhttp.responseText;
+               }
+           }
+           xmlhttp.open("GET", "clearingEnrollDeal.php?Wtime=" +  Wtime_val + '&AareaID=' + AareaID_val + '&ProductID=' + ProductID_val + '&Wweboperator=' + Wweboperator_val + '&Wmoney=' + Wmoney_val +'&Wwebtype='+ Wwebtype_val,true);
+           xmlhttp.send();
+       }
+   </script>
+</head>
+<body>
+<div class="smallGround">
+   <p class="first">网间结算录入</p>
+<form action="clearingEnroll.html" method="post">
+ <p style="font-size:25px; font-weight:bold; position:absolute; left:100px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;日期: <input id="Wtime" type="date" name="Ctime" class="smallInput"></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:450px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;城市:<select id="city" name="city" class="smallInput">
+   <option value="000">江西本部</option>
+   <option value="740">江西景德镇</option>
+   <option value="750">江西南昌</option>
+   <option value="751">江西吉安</option>
+   <option value="752">江西赣州</option>
+   <option value="753">江西新余</option>
+   <option value="754">江西鹰潭</option>
+   <option value="755">江西九江</option>
+   <option value="756">江西宜春</option>
+   <option value="757">江西上饶</option>
+   <option value="758">江西萍乡</option>
+   <option value="759">江西抚州</option>
+</select></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:800px; top:75px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;产品:<select id="ProductID" onChange="change()" class="smallInput">
+   <option value="120502">固话-增值业务-800-国内</option>
+   <option value="110101">固话-基础业务-普通电话</option>
+   <option value="110503">固话-基础业务-公用电话-公话超市电话</option>
+   <option value="320113">卡类-IP卡-省内IP电话卡-200卡</option>
+   <option value="320114">卡类-IP卡-省内IP电话卡-300卡</option>
+   <option value="420301">数据业务-互联网接入服务-互联网普通专线接入</option>
+   <option value="420201">数据业务-互联网接入服务-宽带接入-ADSL虚拟拨号</option>
+
+   <option value="430101">数据业务-平台业务-IDC-主机托管</option>
+</select></p>
+<p style="font-size:25px; font-weight:bold; position:absolute; left:78px; top:135px">结算运营商:<select id="Wweboperator" class="smallInput">
+   <option value="1">电信</option>
+   <option value="2">移动</option>
+   <option value="3">联通</option>
+</select></p>
+
+<p style="font-size:25px; font-weight:bold; position:absolute; left:450px; top:135px">结算类型:<select id="Wwebtype" class="smallInput">
+   <option value="1">结算支出</option>
+   <option value="2">结算收入</option>
+
+</select></p>
+   <p style="font-size:25px; font-weight:bold; position:absolute; left:750px; top:135px" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;销账金额:<input id="Wmoney" type="text" name="Wmonmy" class="smallInput"></p>
+   <p style="font-size:20px; font-weight:bold; position:absolute; left:1100px; top:220px">
+      <button id="submit" name="sub" value="提交" type="button" style="position: relative; top: -10px;" class=" btn btn-primary"onclick="ForCheck1()"><i class="fa fa-paper-plane">提交</i></button>
+   </p>
+</form>
+</div>
+<p class="smallGround1">&nbsp;
+   <table width="" cellspacing="0" border="1" bordercolor="blue">
+      <tr>
+         <th width="200" class="color-text1">日期</th>
+         <th width="200" class="color-text1">城市</th>
+         <th width="450"class="color-text1">产品</th>
+         <th width="200"class="color-text1">结算运营商</th>
+         <th width="250"class="color-text1">结算类型</th>
+         <th width="200"class="color-text1">销账金额</th>
+      </tr>
+   </table>
+   <table id="txt1" width="" cellspacing="0" border="1" bordercolor="blue">
+   </table>
+   </p>
+
+</body>
+</html>

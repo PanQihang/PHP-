@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e405ca6f-a13c-4711-b3a9-5fdcf664e4a3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="jh_clearing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_clearing.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4002">
+              <caret line="174" column="7" lean-forward="false" selection-start-line="174" selection-start-column="7" selection-end-line="174" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_cardsellDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_cardsellDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="150" column="30" lean-forward="false" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+              <folding>
+                <marker date="1543899747835" expanded="true" signature="596:727" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="908:1019" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="1210:1316" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="1507:1609" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="1800:1902" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="2114:2199" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="2413:2493" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="2706:2786" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="3000:3077" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="3291:3368" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="3582:3655" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="3898:3945" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="4182:4233" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="4470:4525" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="4762:4817" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="5053:5077" ph="SELECT * FRO... cardincome" />
+                <marker date="1543899747835" expanded="true" signature="5918:5961" ph="SELECT Aname... area" />
+                <marker date="1543899747835" expanded="true" signature="5985:6039" ph="SELECT Produ... product" />
+                <marker date="1543899747835" expanded="true" signature="6921:6933" ph="..." />
+                <marker date="1543899747835" expanded="true" signature="7185:7195" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GJ_cardsellDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GJ_cardsellDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3220">
+              <caret line="140" column="4" lean-forward="false" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="4" />
+              <folding>
+                <marker date="1543810837352" expanded="true" signature="596:727" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="908:1019" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="1210:1316" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="1507:1609" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="1800:1902" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="2114:2199" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="2413:2493" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="2706:2786" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="3000:3077" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="3291:3368" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="3582:3655" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="3898:3945" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="4182:4233" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="4470:4525" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="4762:4817" ph="SELECT * FRO... cardincome" />
+                <marker date="1543810837352" expanded="true" signature="5693:5736" ph="SELECT Aname... area" />
+                <marker date="1543810837352" expanded="true" signature="5760:5814" ph="SELECT Produ... product" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_chargetDeal.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jh_chargetDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2944">
+              <caret line="135" column="4" lean-forward="true" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+              <folding>
+                <marker date="1543899747925" expanded="true" signature="592:718" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="899:1004" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="1195:1295" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="1486:1582" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="1773:1873" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="2085:2164" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="2378:2453" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="2667:2746" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="2959:3029" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="3243:3317" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="3530:3601" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="3844:3890" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="4127:4177" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="4414:4468" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="4705:4755" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="4991:5014" ph="SELECT * FRO... outincome" />
+                <marker date="1543899747925" expanded="true" signature="5884:5927" ph="SELECT Aname... area" />
+                <marker date="1543899747925" expanded="true" signature="5951:6005" ph="SELECT Produ... product" />
+                <marker date="1543899747925" expanded="true" signature="6029:6079" ph="SELECT Otype... outtype" />
+                <marker date="1543899747925" expanded="true" signature="7031:7043" ph="..." />
+                <marker date="1543899747925" expanded="true" signature="7294:7304" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_cardsellOKDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_cardsellOKDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1542979321993" expanded="true" signature="102:167" ph="UPDATE cardi... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GJ_cardsell.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GJ_cardsell.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1909">
+              <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_clearingDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_clearingDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="242" column="30" lean-forward="false" selection-start-line="242" selection-start-column="30" selection-end-line="242" selection-end-column="30" />
+              <folding>
+                <marker date="1543899748033" expanded="true" signature="663:823" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="1031:1171" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="1388:1523" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="1740:1872" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="2089:2216" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="2433:2568" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="2806:2920" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="3160:3270" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="3510:3623" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="3862:3966" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="4206:4314" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="4553:4659" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="4898:4999" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="5238:5335" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="5574:5679" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="5918:6018" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="6287:6372" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="6635:6723" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="6986:7066" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="7328:7411" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="7674:7749" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="8011:8090" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="8351:8431" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="8693:8765" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="9026:9101" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="9363:9434" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="9734:9774" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="10066:10116" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="10402:10456" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="10742:10801" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="11087:11138" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="11423:11446" ph="SELECT * FRO... webincome" />
+                <marker date="1543899748033" expanded="true" signature="12434:12477" ph="SELECT Aname... area" />
+                <marker date="1543899748033" expanded="true" signature="12501:12555" ph="SELECT Produ... product" />
+                <marker date="1543899748033" expanded="true" signature="12579:12641" ph="SELECT Woper... weboperator" />
+                <marker date="1543899748033" expanded="true" signature="12665:12715" ph="SELECT Wtype... webtype" />
+                <marker date="1543899748033" expanded="true" signature="13836:13848" ph="..." />
+                <marker date="1543899748033" expanded="true" signature="14100:14110" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_prestoreDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_prestoreDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="139" column="30" lean-forward="false" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+              <folding>
+                <marker date="1543899748178" expanded="true" signature="595:721" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="902:1007" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="1198:1298" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="1489:1585" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="1776:1876" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="2088:2167" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="2381:2456" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="2670:2749" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="2962:3032" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="3246:3320" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="3533:3604" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="3847:3893" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="4130:4180" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="4417:4471" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="4708:4758" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="4994:5017" ph="SELECT * FRO... preincome" />
+                <marker date="1543899748178" expanded="true" signature="5884:5927" ph="SELECT Aname... area" />
+                <marker date="1543899748178" expanded="true" signature="5951:6005" ph="SELECT Produ... product" />
+                <marker date="1543899748178" expanded="true" signature="6029:6079" ph="SELECT Ptype... pretype" />
+                <marker date="1543899748178" expanded="true" signature="7031:7043" ph="..." />
+                <marker date="1543899748178" expanded="true" signature="7294:7304" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jh_requisitionDeal.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jh_requisitionDeal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="141" column="30" lean-forward="false" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
+              <folding>
+                <marker date="1543899748230" expanded="true" signature="605:737" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="921:1032" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="1226:1332" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="1526:1628" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="1822:1925" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="2140:2226" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="2443:2524" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="2741:2823" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="3039:3115" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="3332:3409" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="3625:3699" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="3945:3994" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="4234:4287" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="4527:4584" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="4824:4880" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="5119:5145" ph="SELECT * FRO... reportincome" />
+                <marker date="1543899748230" expanded="true" signature="6014:6057" ph="SELECT Aname... area" />
+                <marker date="1543899748230" expanded="true" signature="6081:6135" ph="SELECT Produ... product" />
+                <marker date="1543899748230" expanded="true" signature="6159:6212" ph="SELECT Rtype... reporttype" />
+                <marker date="1543899748230" expanded="true" signature="7143:7155" ph="..." />
+                <marker date="1543899748230" expanded="true" signature="7364:7374" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cardSellEnroll.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cardSellEnroll.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2921">
+              <caret line="127" column="4" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="127" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/chargetofEnrollDeal.php" />
+        <option value="$PROJECT_DIR$/clearingEnrollDeal.php" />
+        <option value="$PROJECT_DIR$/cardSellEnroll.html" />
+        <option value="$PROJECT_DIR$/cardSellEnrollDeal.php" />
+        <option value="$PROJECT_DIR$/prestoreEnroll.html" />
+        <option value="$PROJECT_DIR$/prestoreEnrollDeal.php" />
+        <option value="$PROJECT_DIR$/requisitionEnroll.html" />
+        <option value="$PROJECT_DIR$/cardSellSearchDeal.php" />
+        <option value="$PROJECT_DIR$/clearingSearchDeal.php" />
+        <option value="$PROJECT_DIR$/outincome_find.php" />
+        <option value="$PROJECT_DIR$/prestore_find.php" />
+        <option value="$PROJECT_DIR$/requisitionSearchDeal.php" />
+        <option value="$PROJECT_DIR$/requisitionEnrollDeal.php" />
+        <option value="$PROJECT_DIR$/jquery.min.js" />
+        <option value="$PROJECT_DIR$/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/JH.html" />
+        <option value="$PROJECT_DIR$/GJ.html" />
+        <option value="$PROJECT_DIR$/G_second.html" />
+        <option value="$PROJECT_DIR$/G_zjm.html" />
+        <option value="$PROJECT_DIR$/chargetofEnroll.css" />
+        <option value="$PROJECT_DIR$/cardSell.html" />
+        <option value="$PROJECT_DIR$/chargetof.html" />
+        <option value="$PROJECT_DIR$/clearing.html" />
+        <option value="$PROJECT_DIR$/prestore.html" />
+        <option value="$PROJECT_DIR$/requisition.html" />
+        <option value="$PROJECT_DIR$/cardSellSearch.html" />
+        <option value="$PROJECT_DIR$/clearingSearch.html" />
+        <option value="$PROJECT_DIR$/requisitionSearch.html" />
+        <option value="$PROJECT_DIR$/prestoreSerch.html" />
+        <option value="$PROJECT_DIR$/jh_requisition.html" />
+        <option value="$PROJECT_DIR$/jh_prestore.html" />
+        <option value="$PROJECT_DIR$/jh_charget.html" />
+        <option value="$PROJECT_DIR$/jh_cardsell.html" />
+        <option value="$PROJECT_DIR$/chargetofSearch.html" />
+        <option value="$PROJECT_DIR$/LY.html" />
+        <option value="$PROJECT_DIR$/GJ_charget.html" />
+        <option value="$PROJECT_DIR$/gj_chargetofDeal.php" />
+        <option value="$PROJECT_DIR$/GJ_prestore.html" />
+        <option value="$PROJECT_DIR$/GJ_requisition.html" />
+        <option value="$PROJECT_DIR$/GJ_clearingDeal.php" />
+        <option value="$PROJECT_DIR$/GJ_clearing.html" />
+        <option value="$PROJECT_DIR$/GJ_prestoreDeal.php" />
+        <option value="$PROJECT_DIR$/GJ_requisitionDeal.php" />
+        <option value="$PROJECT_DIR$/jh_clearing.html" />
+        <option value="$PROJECT_DIR$/GJ_cardsell.html" />
+        <option value="$PROJECT_DIR$/GJ_cardsellDeal.php" />
+        <option value="$PROJECT_DIR$/jh_chargetDeal.php" />
+        <option value="$PROJECT_DIR$/jh_cardsellDeal.php" />
+        <option value="$PROJECT_DIR$/jh_clearingDeal.php" />
+        <option value="$PROJECT_DIR$/jh_prestoreDeal.php" />
+        <option value="$PROJECT_DIR$/jh_requisitionDeal.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RJGC" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RJGC" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\wamp\www\RJGC2_1\RJGC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e405ca6f-a13c-4711-b3a9-5fdcf664e4a3" name="Default" comment="" />
+      <created>1542688935069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542688935069</updated>
+      <workItem from="1542688955409" duration="626000" />
+      <workItem from="1542807276005" duration="2890000" />
+      <workItem from="1542863611550" duration="2776000" />
+      <workItem from="1543306290058" duration="13123000" />
+      <workItem from="1543370419970" duration="950000" />
+      <workItem from="1543372107248" duration="2258000" />
+      <workItem from="1543378496076" duration="916000" />
+      <workItem from="1543403648386" duration="173000" />
+      <workItem from="1543408819180" duration="3946000" />
+      <workItem from="1543630309341" duration="5441000" />
+      <workItem from="1543718505960" duration="159000" />
+      <workItem from="1543738249450" duration="20507000" />
+      <workItem from="1543802309517" duration="6565000" />
+      <workItem from="1543810050064" duration="800000" />
+      <workItem from="1543886366258" duration="1041000" />
+      <workItem from="1543899515212" duration="385000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="62556000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20677084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20729166" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requisitionofChangeDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4805" lean-forward="false" selection-start-line="6" selection-start-column="4805" selection-end-line="6" selection-end-column="4805" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JH.html" />
+    <entry file="file://$PROJECT_DIR$/GJ.html" />
+    <entry file="file://$PROJECT_DIR$/jh_zjm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/G_second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/G_zjm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wchangeDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chargetofEnroll.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="635">
+          <caret line="76" column="10" lean-forward="false" selection-start-line="76" selection-start-column="10" selection-end-line="76" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_chargetOKDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requisition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clearing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chargetof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardSell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="104" lean-forward="false" selection-start-line="12" selection-start-column="104" selection-end-line="12" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardSellSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="73" column="8" lean-forward="false" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_prestore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2599">
+          <caret line="113" column="185" lean-forward="false" selection-start-line="113" selection-start-column="185" selection-end-line="113" selection-end-column="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_charget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4715">
+          <caret line="205" column="199" lean-forward="false" selection-start-line="205" selection-start-column="199" selection-end-line="205" selection-end-column="199" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_cardsell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2576">
+          <caret line="112" column="69" lean-forward="false" selection-start-line="112" selection-start-column="69" selection-end-line="112" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clearingSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1955">
+          <caret line="85" column="7" lean-forward="false" selection-start-line="85" selection-start-column="7" selection-end-line="85" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chargetofSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="133" column="189" lean-forward="false" selection-start-line="133" selection-start-column="189" selection-end-line="133" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prestoreSerch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="203" lean-forward="false" selection-start-line="43" selection-start-column="203" selection-end-line="43" selection-end-column="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requisitionSearch.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3243">
+          <caret line="141" column="8" lean-forward="false" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_second.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="4" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LY.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="869">
+          <caret line="82" column="91" lean-forward="false" selection-start-line="82" selection-start-column="91" selection-end-line="82" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_chargetEnd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_clearingEnd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_charget.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="209" column="24" lean-forward="false" selection-start-line="209" selection-start-column="24" selection-end-line="209" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_prestoreEnd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_prestore.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="35" column="52" lean-forward="false" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gj_chargetofDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="75" lean-forward="false" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_requisition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3818">
+          <caret line="166" column="189" lean-forward="false" selection-start-line="166" selection-start-column="189" selection-end-line="166" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_clearing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="93" column="6" lean-forward="false" selection-start-line="93" selection-start-column="6" selection-end-line="93" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_clearingDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3473">
+          <caret line="151" column="106" lean-forward="false" selection-start-line="151" selection-start-column="106" selection-end-line="151" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_prestoreDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3151">
+          <caret line="137" column="22" lean-forward="false" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_requisition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4231#4237#0" expanded="true" />
+            <element signature="e#4237#4243#0" expanded="true" />
+            <element signature="e#4243#4249#0" expanded="true" />
+            <element signature="e#4249#4255#0" expanded="true" />
+            <element signature="e#4255#4261#0" expanded="true" />
+            <element signature="e#4261#4267#0" expanded="true" />
+            <element signature="e#4267#4273#0" expanded="true" />
+            <element signature="e#4273#4279#0" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5017#5023#0" expanded="true" />
+            <element signature="e#5023#5029#0" expanded="true" />
+            <element signature="e#5029#5035#0" expanded="true" />
+            <element signature="e#5035#5041#0" expanded="true" />
+            <element signature="e#5041#5047#0" expanded="true" />
+            <element signature="e#5047#5053#0" expanded="true" />
+            <element signature="e#5053#5059#0" expanded="true" />
+            <element signature="e#5059#5065#0" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_requisitionDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4048">
+          <caret line="176" column="21" lean-forward="false" selection-start-line="176" selection-start-column="21" selection-end-line="176" selection-end-column="21" />
+          <folding>
+            <marker date="1543809293362" expanded="true" signature="604:736" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="920:1031" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="1225:1331" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="1525:1627" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="1821:1924" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="2139:2225" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="2442:2523" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="2740:2822" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="3038:3114" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="3331:3408" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="3624:3698" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="3944:3993" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="4233:4286" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="4526:4583" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="4823:4879" ph="SELECT * FRO... reportincome" />
+            <marker date="1543809293362" expanded="true" signature="5675:5718" ph="SELECT Aname... area" />
+            <marker date="1543809293362" expanded="true" signature="5742:5796" ph="SELECT Produ... product" />
+            <marker date="1543809293362" expanded="true" signature="5820:5873" ph="SELECT Rtype... reporttype" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_cardsellEnd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1543764398659" expanded="true" signature="298:482" ph="SELECT CFlow... cardincome" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_cardsell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1909">
+          <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GJ_cardsellDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3220">
+          <caret line="140" column="4" lean-forward="false" selection-start-line="140" selection-start-column="4" selection-end-line="140" selection-end-column="4" />
+          <folding>
+            <marker date="1543810837352" expanded="true" signature="596:727" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="908:1019" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="1210:1316" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="1507:1609" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="1800:1902" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="2114:2199" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="2413:2493" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="2706:2786" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="3000:3077" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="3291:3368" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="3582:3655" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="3898:3945" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="4182:4233" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="4470:4525" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="4762:4817" ph="SELECT * FRO... cardincome" />
+            <marker date="1543810837352" expanded="true" signature="5693:5736" ph="SELECT Aname... area" />
+            <marker date="1543810837352" expanded="true" signature="5760:5814" ph="SELECT Produ... product" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cardSellEnroll.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2921">
+          <caret line="127" column="4" lean-forward="false" selection-start-line="125" selection-start-column="1" selection-end-line="127" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_clearing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4002">
+          <caret line="174" column="7" lean-forward="false" selection-start-line="174" selection-start-column="7" selection-end-line="174" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_cardsellOKDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1542979321993" expanded="true" signature="102:167" ph="UPDATE cardi... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_cardsellDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="150" column="30" lean-forward="false" selection-start-line="150" selection-start-column="30" selection-end-line="150" selection-end-column="30" />
+          <folding>
+            <marker date="1543899747835" expanded="true" signature="596:727" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="908:1019" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="1210:1316" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="1507:1609" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="1800:1902" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="2114:2199" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="2413:2493" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="2706:2786" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="3000:3077" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="3291:3368" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="3582:3655" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="3898:3945" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="4182:4233" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="4470:4525" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="4762:4817" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="5053:5077" ph="SELECT * FRO... cardincome" />
+            <marker date="1543899747835" expanded="true" signature="5918:5961" ph="SELECT Aname... area" />
+            <marker date="1543899747835" expanded="true" signature="5985:6039" ph="SELECT Produ... product" />
+            <marker date="1543899747835" expanded="true" signature="6921:6933" ph="..." />
+            <marker date="1543899747835" expanded="true" signature="7185:7195" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_requisitionDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="141" column="30" lean-forward="false" selection-start-line="141" selection-start-column="30" selection-end-line="141" selection-end-column="30" />
+          <folding>
+            <marker date="1543899748230" expanded="true" signature="605:737" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="921:1032" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="1226:1332" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="1526:1628" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="1822:1925" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="2140:2226" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="2443:2524" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="2741:2823" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="3039:3115" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="3332:3409" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="3625:3699" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="3945:3994" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="4234:4287" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="4527:4584" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="4824:4880" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="5119:5145" ph="SELECT * FRO... reportincome" />
+            <marker date="1543899748230" expanded="true" signature="6014:6057" ph="SELECT Aname... area" />
+            <marker date="1543899748230" expanded="true" signature="6081:6135" ph="SELECT Produ... product" />
+            <marker date="1543899748230" expanded="true" signature="6159:6212" ph="SELECT Rtype... reporttype" />
+            <marker date="1543899748230" expanded="true" signature="7143:7155" ph="..." />
+            <marker date="1543899748230" expanded="true" signature="7364:7374" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_prestoreDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="139" column="30" lean-forward="false" selection-start-line="139" selection-start-column="30" selection-end-line="139" selection-end-column="30" />
+          <folding>
+            <marker date="1543899748178" expanded="true" signature="595:721" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="902:1007" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="1198:1298" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="1489:1585" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="1776:1876" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="2088:2167" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="2381:2456" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="2670:2749" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="2962:3032" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="3246:3320" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="3533:3604" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="3847:3893" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="4130:4180" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="4417:4471" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="4708:4758" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="4994:5017" ph="SELECT * FRO... preincome" />
+            <marker date="1543899748178" expanded="true" signature="5884:5927" ph="SELECT Aname... area" />
+            <marker date="1543899748178" expanded="true" signature="5951:6005" ph="SELECT Produ... product" />
+            <marker date="1543899748178" expanded="true" signature="6029:6079" ph="SELECT Ptype... pretype" />
+            <marker date="1543899748178" expanded="true" signature="7031:7043" ph="..." />
+            <marker date="1543899748178" expanded="true" signature="7294:7304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_clearingDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="242" column="30" lean-forward="false" selection-start-line="242" selection-start-column="30" selection-end-line="242" selection-end-column="30" />
+          <folding>
+            <marker date="1543899748033" expanded="true" signature="663:823" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="1031:1171" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="1388:1523" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="1740:1872" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="2089:2216" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="2433:2568" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="2806:2920" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="3160:3270" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="3510:3623" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="3862:3966" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="4206:4314" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="4553:4659" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="4898:4999" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="5238:5335" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="5574:5679" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="5918:6018" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="6287:6372" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="6635:6723" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="6986:7066" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="7328:7411" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="7674:7749" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="8011:8090" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="8351:8431" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="8693:8765" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="9026:9101" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="9363:9434" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="9734:9774" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="10066:10116" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="10402:10456" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="10742:10801" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="11087:11138" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="11423:11446" ph="SELECT * FRO... webincome" />
+            <marker date="1543899748033" expanded="true" signature="12434:12477" ph="SELECT Aname... area" />
+            <marker date="1543899748033" expanded="true" signature="12501:12555" ph="SELECT Produ... product" />
+            <marker date="1543899748033" expanded="true" signature="12579:12641" ph="SELECT Woper... weboperator" />
+            <marker date="1543899748033" expanded="true" signature="12665:12715" ph="SELECT Wtype... webtype" />
+            <marker date="1543899748033" expanded="true" signature="13836:13848" ph="..." />
+            <marker date="1543899748033" expanded="true" signature="14100:14110" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jh_chargetDeal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2944">
+          <caret line="135" column="4" lean-forward="true" selection-start-line="135" selection-start-column="4" selection-end-line="135" selection-end-column="4" />
+          <folding>
+            <marker date="1543899747925" expanded="true" signature="592:718" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="899:1004" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="1195:1295" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="1486:1582" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="1773:1873" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="2085:2164" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="2378:2453" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="2667:2746" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="2959:3029" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="3243:3317" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="3530:3601" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="3844:3890" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="4127:4177" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="4414:4468" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="4705:4755" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="4991:5014" ph="SELECT * FRO... outincome" />
+            <marker date="1543899747925" expanded="true" signature="5884:5927" ph="SELECT Aname... area" />
+            <marker date="1543899747925" expanded="true" signature="5951:6005" ph="SELECT Produ... product" />
+            <marker date="1543899747925" expanded="true" signature="6029:6079" ph="SELECT Otype... outtype" />
+            <marker date="1543899747925" expanded="true" signature="7031:7043" ph="..." />
+            <marker date="1543899747925" expanded="true" signature="7294:7304" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
